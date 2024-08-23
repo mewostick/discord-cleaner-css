@@ -1,0 +1,38 @@
+/* these are unlikely to be affected by updates */
+[class^="profileEffects"] {
+    display: none;
+}
+
+[class^="nowPlayingColumn"] {
+    display: none;
+}
+
+[class^="avatarDecoration"] {
+    display: none;
+}
+
+button[aria-label="Send a gift"] {
+    display: none;
+}
+
+button[aria-label="Apps"] {
+    display: none;
+}
+
+[class^="premiumBackground"] {
+    display: none;
+}
+
+[class^="premiumFeatureBorder"] {
+    display: none;
+}
+
+/* these may return back after discord changes something */
+/* ads in "Profiles" in settings */
+[class="container_da1432"] {
+    display: none;
+}
+
+[class="container_c1cce6"] {
+    display: none;
+}
