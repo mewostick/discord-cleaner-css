@@ -1,0 +1,89 @@
+/* import cleaner.css from repo */
+@import url('https://raw.githubusercontent.com/mewostick/discord-cleaner-css/main/cleaner.css');
+
+/* chat bar */
+button[aria-label="Send a gift"] {
+    display: none;
+}
+
+button[aria-label="Apps"] {
+    display: none;
+}
+
+button[aria-label="Open GIF picker"] {
+    display: none;
+}
+
+button[aria-label="Open sticker picker"] {
+    display: none;
+}
+
+[class^="sidebar"] {
+    width: 200px;
+}
+
+/* icons on the top bar */
+[aria-label="Hide Member List"],
+[aria-label="Show Member List"],
+[aria-label="Hide Summaries"],
+[aria-label="Show Summaries"],
+[aria-label="Pinned Messages"],
+[aria-label="Inbox"],
+[aria-label="Threads"],
+[aria-label="Start Voice Call"],
+[aria-label="Start Video Call"],
+[aria-label="Add Friends to DM"],
+[aria-label="Show User Profile"],
+[aria-label="Notification Settings"] {
+    width: 13px;
+}
+
+[aria-label="Help"] {
+    display: none;
+}
+
+/* (may go back to its original size after an update) */
+[class="searchBar_a46bef"] {
+    width: 80px;
+}
+
+/* threads icon fix (same issue as above) */
+.icon_f542fc {
+    display: block;
+}
+
+/* your user status bar */
+button[aria-label="Mute"],
+button[aria-label="Deafen"],
+button[aria-label="User Settings"]
+ {
+    width: 20px;
+}
+
+
+/* making sure the tabs in settings always fit in */
+[id="my-account-tab"],
+[id="profile-customization-tab"],
+[id="privacy-&-safety-tab"],
+[id="family-center-tab"],
+[id="authorized-apps-tab"],
+[id="sessions-tab"],
+[id="connections-tab"],
+[id="settings-clips-tab"],
+[id="friend-requests-tab"],
+[id="discord-nitro-tab"],
+[id="nitro-server-boost-tab"],
+[id="subscriptions-tab"],
+[id="library-inventory-tab"],
+[id="appearance-tab"],
+[id="accessibility-tab"],
+[id="voice-&-video-tab"],
+[id="text-&-images-tab"],
+[id="notifications-tab"],
+[id="keybinds-tab"],
+[id="language-tab"],
+[id="streamer-mode-tab"],
+[id="advanced-tab"],
+[id="activity-privacy-tab"] {
+    width: 200px;
+}
