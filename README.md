@@ -1,5 +1,6 @@
 # Discord Cleaner in CSS
-The following CSS files will reduce the amount of clutter Discord has gotten in the last years.
+The following CSS files will reduce the amount of clutter Discord has gotten in the last few years.
+---
 
 The cleaner.css does:
 + profile effects (no more unreadable profiles!)
@@ -13,5 +14,15 @@ There is also a CSS file meant for small screens/windows. It's not perfect but u
 + removed the GIFs + stickers buttons in the chat bar. Those are present in the emoji button
 
 Preview for the smallscreen variant:
-
 <img src="https://github.com/mewostick/discord-cleaner-css/blob/main/preview.png?raw=true">
+
+---
+
+## Installation on Vencord
+Simply open your Settings, head into the Themes section, go to Online Themes and insert one of these two links:
+
+```https://raw.githubusercontent.com/mewostick/discord-cleaner-css/main/cleaner.css```
+
+or
+
+```https://raw.githubusercontent.com/mewostick/discord-cleaner-css/main/smallscreen-cleaner.css``` (small screen variant)
