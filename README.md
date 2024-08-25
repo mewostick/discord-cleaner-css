@@ -1,5 +1,9 @@
 # Discord Cleaner in CSS
 The following CSS files will reduce the amount of clutter Discord has gotten in the last few years.
+
+
+<img src="https://github.com/mewostick/discord-cleaner-css/blob/main/normal-preview.png?raw=true">
+
 ---
 
 The cleaner.css does:
