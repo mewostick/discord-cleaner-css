@@ -29,7 +29,7 @@ button[aria-label="Apps"] {
 
 /* these may return back after discord changes something */
 /* ads in "Profiles" in settings */
-[class="container_da1432"] {
+[class="container_da1432 stormContainer_da1432"] {
     display: none;
 }
 
