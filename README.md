@@ -6,7 +6,7 @@ The following CSS files will reduce the amount of clutter Discord has gotten in 
 
 ---
 
-The cleaner.css does:
+The cleaner.css does hide:
 + profile effects (no more unreadable profiles!)
 + avatar decorations
 + send a gift + apps button on the chat bar
