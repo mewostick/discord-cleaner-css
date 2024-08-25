@@ -87,3 +87,9 @@ button[aria-label="User Settings"]
 [id="activity-privacy-tab"] {
     width: 200px;
 }
+
+/* more space in voice call action centre */
+button[aria-label="Noise Suppression powered by Krisp"],
+button[aria-label="Disconnect"] {
+    width: 23px;
+}
