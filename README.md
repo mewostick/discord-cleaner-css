@@ -1,5 +1,5 @@
 # Discord Cleaner in CSS
-The following CSS files will reduce the amount of clutter Discord has gotten in the last few years (only works with US/UK English).
+The following CSS files will reduce the amount of clutter Discord has gotten in the last few years (only FULLY works with US/UK English).
 
 
 <img src="https://github.com/mewostick/discord-cleaner-css/blob/main/normal-preview.png?raw=true">
